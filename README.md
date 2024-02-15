@@ -1,4 +1,3 @@
-```markdown
 # Smartphone Directory System
 
 This Python script implements a smartphone directory system where users can store and manage contacts.
